@@ -1,0 +1,332 @@
+.asssaa {
+    z-index: -999;
+}
+h1.my_ads_title {
+    font-size: 10px;
+    letter-spacing: .01em;
+    line-height: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0px;
+	    background: #9100ff;
+    color: #fff;
+}
+
+/******  YBI  CHANGE CSS *****/
+.ybi_w100 {
+    float: left;
+    width: 100%;
+	
+}
+
+.ybi_advertisement_inner{
+    float: left;
+    width: 100%;
+	background: #fff;
+    padding: 3px;
+
+    
+}
+
+#player {
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.ybi_w75 {
+    float: left;
+    width: 75%;
+}
+.ybi_w50 {
+    float: left;
+    width: 50%;
+}
+.ybi_w25 {
+    float: left;
+    width: 25%;
+}
+.ybi_container {
+    width: 100%;
+    float: left;
+    margin: 0 auto;
+    padding: 0px 15px;
+}
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+.ybi_game_title h1 {
+       margin: 10px 0px;
+    color: #f68a00;
+    text-shadow: 1px 2px 0px #0000001c;
+}
+.ybi_game_left {
+   /* height:640.5px;*/
+    padding: 8px;
+    margin-right: 0px;
+    background: #fff;
+}
+.game_icons {
+    margin-top: 10px;
+}
+.game_icons:first-child {
+    margin-top: 0;
+}
+.game_icons:nth-child(2) {
+    margin-top: 0;
+}
+.ybi_even {
+    padding: 0px;
+    padding-right: 5px;
+}
+.ybi_odd {
+    padding: 0px;
+    padding-left: 5px;
+}
+.C5 {
+    text-align: center;
+}
+
+
+
+.game_icons img {
+    width: 100%;
+       height: 100px;
+    border: 4px solid #3b3092;
+    border-radius: 16px;-webkit-transition: all .4s linear;
+    transition: all .4s linear;
+}
+
+.game_icons img:hover {border: 4px solid #fee340;-webkit-transform: scale(1.0);
+    transform: scale(1.0);}
+
+
+
+
+.ybi_sliders #thumbnail-slider img {
+   width: 73%;
+    height: 143px;
+    border-radius: 50%!important;
+    border: 4px solid #3b3092;
+    border-radius: 16px;
+    -webkit-transition: all .4s linear;
+    transition: all .4s linear;
+
+}
+
+
+.ybi_sliders #thumbnail-slider img:hover {border: 4px solid #fee340;-webkit-transform: scale(1.0);
+    transform: scale(1.0);}
+
+
+
+
+
+.game_icons a {
+    float: left;
+    width: 100%;
+   
+}
+.icon_title {
+    overflow: hidden;
+    display: block;
+    margin: 0;
+    padding: 6px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: #002b50;
+    font-size: 14px;
+    text-align: center;
+	display:none;
+}
+.box-game {
+    width: 100%;
+    padding-right: 10px;
+}
+.ybi_header {
+    background: #3b3092;
+}
+.ybi_header_inner {
+    padding: 12px 0px;
+}
+.ybi_header_inner a {
+       text-decoration: none;
+    color: #FFF;
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 14px;
+    border-right:solid 1px #ffffff69;
+    padding: 0px 13px;
+}
+
+
+.ybi_header_inner a:last-child {border-right:none;}
+
+
+
+
+.ybi_btns_inner {
+    width: 100px;
+    margin: 0px auto;
+    background: #3b3092;
+    padding: 7px 15px;
+    border-radius: 0px 0px 10px 10px;
+}
+.ybi_tag_list {
+    margin-top: 15px;
+}
+.ybi_btns_inner {
+    width: fit-content;
+    margin: 0px auto;
+    background: #3b3092;
+    padding: 7px 15px;
+    border-radius: 0px 0px 10px 10px;
+    color: #ffffff;
+    font-weight: bold;
+}
+.box-game {
+    width: 100%;
+}
+.bottom_content_left {
+    padding: 0px; 
+    padding-right: 10px;
+}
+.bottom_contents {
+    margin-top: 10px;
+}
+.ybi_footer {
+   margin-top: 10px;
+    background-color: #3b3092;
+    padding-top: 9px;
+    padding-bottom: 9px;
+}
+.ybi_footer_inner, .ybi_footer_inner span, .ybi_footer_inner a{
+       color: #fff;
+    font-size: 17px;
+}
+.ybi_sliders {
+    color: transparent;
+}
+#thumbnail-slider {
+    
+    border: solid 1px #fdd412;
+    margin-top: 29px;
+    background: #fff;
+}
+
+
+#thumbnail-slider-prev, #thumbnail-slider-next {background-color: #9100ff;}
+
+.I3 {width: 98.5%;}
+
+.bottom_content_left {
+    height: 600px;
+    overflow: scroll;
+}
+
+.main_game_inner_part {
+    padding-left: 10px;
+}
+.ybi_game__social {
+    float: right;
+    padding-right: 5px;
+    margin: 10px 0px;
+}
+.ybi_social_links button {
+    background-color: #3b3092;
+    height: 32px;
+    width: 32px;
+    margin-right: 8px;
+    padding: 6px;
+}
+.ybi_tag_list ul {
+    display: inline-block;
+    margin: 0px auto;
+    width: 100%;
+    text-align: center;
+}
+.ybi_tag_list ul li {
+    list-style: none;
+    padding: 5px;
+    display: inherit;
+}
+.ybi_tag_list ul li a {
+    background-color: #9100ff;
+    padding: 10px 20px;
+    color: #ffffff;
+    font-weight: bold;
+    text-transform: capitalize;
+    border-radius: 5px;
+}
+.ybi_tag_list ul .active  a {
+    background-color: #3b3092;
+}
+.ybi_tag_list ul li a:hover {
+    text-decoration: none;
+    background: #3b3092;
+}
+.tag_game_inner {
+    margin-bottom: 10px;
+}
+.tag_game_inner a {
+    float: left;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 4px solid #3b3092;
+}
+.tag_game_inner a:hover {
+    border: 4px solid #9100ff;
+}
+.tag_game_inner a img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+.add_tops_cls {
+    margin: 10px 0px;
+}
+.ybi_tag_game_description ul, .bottom_contents ul {
+    margin-left: 20px;
+}
+.bottom_content_left a {
+    color: #333;
+    text-decoration: none;
+}
+body {
+    background: #000000;
+    color: #ffffff;
+}
+.ybi_header, .ybi_btns_inner, .ybi_tag_list ul li a:hover,  .ybi_tag_list ul .active a {
+    background: #3b3092;
+}
+.game_icons img, .tag_game_inner a, .ybi_sliders #thumbnail-slider img {
+    border: 4px solid red;
+}
+.ybi_tag_list ul li a, h1.my_ads_title {
+    background-color: #9100ff;
+   
+}
+.game_icons img:hover, .tag_game_inner a:hover, .ybi_sliders #thumbnail-slider img:hover {
+    border: 4px solid #9100ff;
+}
+.ybi_footer {
+    background-color: #3b3092;
+}
+.ybi_advertisement_inner {
+    background: transparent;
+}
+.bottom_content_left a, .ybi_tag_game_description a {
+    color: #ffffff;
+}
+.toc a {
+    color: #000000;
+}
+@media only screen and (max-width: 768px) {
+    body {
+        min-width: 100%;
+    }
+    img {
+        max-width: 100%;
+    }     
+}     
